@@ -9,3 +9,7 @@ Education: Information about your educational background.<br>
 Skills: Highlighting your technical and soft skills.<br>
 Projects: Showcase of key projects you've worked on, with brief descriptions.<br>
 Contact Information: How others can reach out to you.<br>
+
+
+https://github.com/Milad-Noroozi/flutter-resume-app/assets/141914518/ea5b5e00-c655-4b5e-b65f-9c556704e44c
+
