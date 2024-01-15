@@ -1,16 +1,11 @@
-# my_profile
+# flutter resume app
 
-A new Flutter project.
+A Flutter mobile application that serves as a personalized resume, providing a glimpse into my skills, experience, and projects.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+Profile Overview: Concise summary of your professional background and skills.
+Experience: Details about your work experience, including positions, companies, and key responsibilities.
+Education: Information about your educational background.
+Skills: Highlighting your technical and soft skills.
+Projects: Showcase of key projects you've worked on, with brief descriptions.
+Contact Information: How others can reach out to you.
